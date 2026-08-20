@@ -6,7 +6,7 @@
 
 Instead of presenting ingredients and kitchen tools as isolated products, the concept shows how they work together through a recipe, gives that recipe a human story through video, and connects the experience directly to a purchasable basket.
 
-**Recipe → Story & Video → Ingredients & Tools → Basket → Fulfillment → Cooking → Community**
+**Recipe → Story & Video → Ingredients & Tools → Basket → Delivery or Pickup → Cooking → Community**
 
 ## Interactive Concept Demo
 
@@ -48,6 +48,20 @@ The platform can also use **clearly disclosed AI-generated or AI-assisted charac
 
 Authenticity and scalability do not have to be mutually exclusive. The model is designed to support both, with appropriate disclosure and applicable legal and platform requirements.
 
+## Future Content Formats
+
+The grandmother-and-grandchild format is the emotional starting point of the concept, not a restriction on future content.
+
+As the platform evolves, original cooking content could also be produced with **real people in a dedicated studio environment**, creating higher-production-value episodes while preserving the direct connection between recipe, story and purchasable products.
+
+The format can also host **special guests who genuinely enjoy cooking** — for example chefs, creators, artists, athletes or other public figures — cooking alongside a grandmother, family member or host, sharing a meaningful recipe or discovering a culinary tradition.
+
+This creates room for recurring formats, themed episodes, cultural collaborations and special events while keeping the core commercial mechanism unchanged:
+
+**watch the experience → discover the recipe → select the products → cook it yourself.**
+
+Any participation by public figures, creators or partners would of course require the appropriate agreements, permissions and disclosures.
+
 ## From Italy to the World's Food Cultures
 
 Italy is the starting point and narrative model — not the limit of the concept.
@@ -64,9 +78,9 @@ The core experience is intentionally simple:
 
 1. **Discover a recipe** — start with inspiration rather than an individual SKU.
 2. **Watch the story** — experience the recipe through the people preparing it.
-3. **See ingredients & tools** — understand exactly what is used and why.
-4. **Build the recipe basket** — select only the products you need.
-5. **Choose fulfillment** — connect the basket to available delivery or pickup options.
+3. **See ingredients & kitchen tools** — understand exactly what is used and why.
+4. **Build the recipe basket** — select only the ingredients, cookware or utensils you need.
+5. **Choose how to receive it** — have the selected products delivered to your home or choose an available store/pickup point and collect the order yourself.
 6. **Cook and return** — recreate the experience and discover more recipes or creators.
 
 Account creation is not fundamental to discovery. In a production experience, registration can be introduced only when it creates value — for example at checkout, when saving recipes, following creators or managing orders.
@@ -75,21 +89,26 @@ Account creation is not fundamental to discovery. In a production experience, re
 
 The commercial mechanism is straightforward:
 
-**1 recipe = multiple relevant purchasable products.**
+**1 recipe = multiple relevant purchasable products across multiple categories.**
 
 A recipe can connect:
 
 - fresh and packaged ingredients;
 - specialty and regional products;
-- cookware;
-- utensils and preparation tools;
+- cookware such as pans, pots and baking equipment;
+- utensils such as ladles, knives, graters and preparation tools;
+- pasta-making and other specialist cooking equipment;
 - complementary products associated with the cooking experience.
 
-Customers should remain in control of the basket: products they already own can be removed, quantities adjusted and alternatives selected.
+Kitchen tools are not merely instructional references. **Where commercially appropriate, the same cookware and utensils used in the recipe can also be offered for purchase**, allowing the customer to recreate not only the dish but also the preparation experience.
+
+Customers remain in control of the basket: products they already own can be removed, quantities adjusted and alternatives selected.
 
 The objective is not to force a bundle. It is to make the relationship between the recipe and the products **visible, useful and immediately actionable**.
 
-This creates a measurable path from content engagement to multi-product discovery and basket creation.
+Once the basket is ready, the commerce journey connects to the retailer's available fulfillment network: **home delivery or customer pickup/collection**. The concept is therefore compatible with different omnichannel operating models rather than prescribing a single fulfillment method.
+
+This creates a measurable path from content engagement to multi-category product discovery, basket creation and fulfillment.
 
 ## Seller & Marketplace Opportunity
 
@@ -109,7 +128,7 @@ Elements of this opportunity already exist across today's digital ecosystem: rec
 
 The proposition is to organize these elements into a single structured model where:
 
-**people and culture create the story → the story explains the recipe → the recipe connects the products → the products create the basket → the customer recreates the experience.**
+**people and culture create the story → the story explains the recipe → the recipe connects the products → the products create the basket → the retailer fulfills the order → the customer recreates the experience.**
 
 The differentiation to explore is therefore in the **integration and orchestration of the complete journey**, rather than in claiming invention of every individual feature.
 
@@ -117,7 +136,7 @@ A detailed competitive assessment is part of the next validation phase and shoul
 
 ## Why It Matters for an Omnichannel Retailer
 
-For a large omnichannel grocery retailer, the model creates a direct connection between **inspiration, entertainment, education, cultural discovery, product discovery and commerce**.
+For a large omnichannel grocery retailer, the model creates a direct connection between **inspiration, entertainment, education, cultural discovery, product discovery, commerce and fulfillment**.
 
 Instead of asking only:
 
@@ -127,7 +146,7 @@ it also asks:
 
 > **What does the customer want to cook, learn or experience?**
 
-That intent can naturally lead to discovery across several relevant product categories in a single journey.
+That intent can naturally lead to discovery across several relevant product categories — from food to kitchen equipment — in a single journey, followed by the customer's preferred delivery or collection option.
 
 The concept is retailer-neutral and can be adapted to different assortments, marketplaces, fulfillment networks and geographic markets.
 
@@ -143,6 +162,7 @@ Rather than presenting unvalidated commercial forecasts as facts, the concept sh
 - average recipe basket value;
 - incremental basket value;
 - ingredient and kitchen-tool attach rate;
+- home-delivery vs pickup selection;
 - repeat cooking sessions;
 - recipe saves and creator follow rate;
 - conversion by culture, cuisine and content format.
@@ -156,10 +176,10 @@ These metrics can establish whether recipe-led storytelling produces meaningful 
 The current demo communicates the broader vision. The next prototype iteration should focus on three priorities:
 
 1. **Faster access to discovery** — recipes before registration.
-2. **A clearer Recipe → Basket mapping** — visibly show how one recipe connects multiple SKUs and categories.
+2. **A clearer Recipe → Basket mapping** — visibly show how one recipe connects multiple SKUs and categories, including ingredients and kitchen tools.
 3. **A lighter web delivery architecture** — optimize assets and loading for faster mobile access while keeping the prototype separate from a production application.
 
-Additional creator, community, seller and marketplace functionality can then be developed as distinct layers around the validated core journey.
+Future iterations can then expand creator and community features, seller and marketplace functionality, studio-produced programming, guest episodes and additional content formats around the validated core journey.
 
 ## Demo & AI Disclosure
 
