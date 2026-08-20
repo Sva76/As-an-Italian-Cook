@@ -2,6 +2,16 @@
 
 Interactive demo of **As an Italian Cook** — authentic Italian recipes, cooking videos, ingredient and kitchen tool shopping, and a marketplace for Italian sellers.
 
+## Demo & AI Disclosure
+
+> **PROTOTYPE / DEMONSTRATION ONLY**
+>
+> This demo was created with the assistance of artificial intelligence and is intended exclusively to illustrate the concept, user experience, potential features, and proposed commercial model of **As an Italian Cook**.
+>
+> AI-generated or AI-assisted people, characters, voices, images, videos, products, prices, shops, sellers, locations, reviews, transactions, delivery information and other content shown in the prototype may be fictional, simulated, illustrative, or placeholders. They must not be interpreted as real people, real businesses, actual commercial offers, endorsements, partnerships, product availability, prices, transactions, or operational services.
+>
+> The final product may combine content from **real people and AI-generated or AI-assisted characters/content**, with appropriate disclosure and applicable legal and platform requirements.
+
 ## Copyright & Usage Notice
 
 **Copyright © 2026 Simona Vargiu. All rights reserved.**
